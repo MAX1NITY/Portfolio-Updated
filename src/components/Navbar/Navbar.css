@@ -51,6 +51,12 @@ nav ul li a:hover{
     
 }
 
+@media (min-width: 1080px) {
+    nav{
+        min-width: 100%;
+    }
+}
+
 /* Tablet version */
 @media (max-width: 1040px) {
     nav{
