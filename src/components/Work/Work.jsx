@@ -25,8 +25,8 @@ const Work = () => {
             <img src={Fashion} className="profile-img"></img>
             </a>
 
-            <a href='https://fashion-proj.vercel.app/'>
-            <p className='profile-p'>Personal Project - Fashion</p>
+            <a href='https://insighta-web-python.vercel.app/'>
+            <p className='profile-p'>Personal Project - Demographic Intelligence Platform</p>
             </a>
           </div>
 
