@@ -26,7 +26,7 @@ const Work = () => {
             </a>
 
             <a href='https://insighta-web-python.vercel.app/'>
-            <p className='profile-p'>Personal Project - Demographic Intelligence Platform</p>
+            <p className='profile-p'>Personal Project - DIP</p>
             </a>
           </div>
 
